@@ -1,0 +1,8 @@
+# 6: DISENTANGLED REPRESENTATION GANS
+
+```
+InfoGAN
+
+
+StackedGAN
+```
